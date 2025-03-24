@@ -7,7 +7,7 @@ name=$USER
 echo $NAME
 path=$(which firefox-esr)
 pathF=$(which gcc)
-pathC=$(which VS code)
+pathC=$(which code)
 sudo chmod 000 $path
 sudo chmod 000 $pathF
 sudo chmod 000 $pathC
